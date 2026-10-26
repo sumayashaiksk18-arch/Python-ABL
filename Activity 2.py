@@ -194,23 +194,3 @@ Save the screenshots with these names:
 These are suggested filenames; capture the screenshots from your actual program execution.
 11. Conclusion
 The Progressive Electricity Billing program demonstrates the use of Python variables, data types, arithmetic operators, comparison operators, and conditional statements. It calculates an electricity bill based on progressive unit rates and handles invalid negative inputs.
-Upload to your GitHub Python-ABL repository
-Use this folder structure:
-Python-ABL/
-│
-├── README.md
-│
-└── Activity_2_Progressive_Electricity_Billing/
-    ├── Activity_2.py
-    ├── Problem_Statement.txt
-    ├── Objectives.txt
-    ├── Assumptions.txt
-    ├── Algorithm.txt
-    ├── Flowchart.txt
-    ├── Pseudocode.txt
-    ├── Test_Cases.txt
-    ├── Conclusion.txt
-    └── Screenshots/
-        ├── output_1_50_units.png
-        ├── output_2_150_units.png
-        └── output_3_250_units.png
