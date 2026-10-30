@@ -1,7 +1,7 @@
 Name: Shaik.SumayaBegum
 Roll No:26001352
-Branch:CSE AIML
-Section:CSM7
+Branch:CSM
+Section:7
 TITLES :
 Activity2 : Electricity Bill Calculation
 Activity3 : Hospital Bill Calculation and Patient Classification
